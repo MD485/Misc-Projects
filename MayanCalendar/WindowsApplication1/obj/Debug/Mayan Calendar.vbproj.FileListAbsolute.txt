@@ -10,3 +10,15 @@ C:\Users\Yuno\Desktop\CVs\Code\MayanCalendar\WindowsApplication1\obj\Debug\Mayan
 C:\Users\Yuno\Desktop\CVs\Code\MayanCalendar\WindowsApplication1\obj\Debug\WindowsApplication1.exe
 C:\Users\Yuno\Desktop\CVs\Code\MayanCalendar\WindowsApplication1\obj\Debug\WindowsApplication1.xml
 C:\Users\Yuno\Desktop\CVs\Code\MayanCalendar\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Yuno\Desktop\GitHub\Misc-Projects\MayanCalendar\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Yuno\Desktop\GitHub\Misc-Projects\MayanCalendar\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Yuno\Desktop\GitHub\Misc-Projects\MayanCalendar\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Yuno\Desktop\GitHub\Misc-Projects\MayanCalendar\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Yuno\Desktop\GitHub\Misc-Projects\MayanCalendar\WindowsApplication1\obj\Debug\Mayan Calendar.vbprojAssemblyReference.cache
+C:\Users\Yuno\Desktop\GitHub\Misc-Projects\MayanCalendar\WindowsApplication1\obj\Debug\WindowsApplication1.MainForm.resources
+C:\Users\Yuno\Desktop\GitHub\Misc-Projects\MayanCalendar\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Yuno\Desktop\GitHub\Misc-Projects\MayanCalendar\WindowsApplication1\obj\Debug\Mayan Calendar.vbproj.GenerateResource.cache
+C:\Users\Yuno\Desktop\GitHub\Misc-Projects\MayanCalendar\WindowsApplication1\obj\Debug\Mayan Calendar.vbproj.CoreCompileInputs.cache
+C:\Users\Yuno\Desktop\GitHub\Misc-Projects\MayanCalendar\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Yuno\Desktop\GitHub\Misc-Projects\MayanCalendar\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Yuno\Desktop\GitHub\Misc-Projects\MayanCalendar\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
