@@ -1,4 +1,4 @@
-#Mayan Calender
+# Mayan Calender
 A project I did during college in my spare time experimenting with forms.
 It converts an input written in a Julian Calendar format to a Mayan Calendar format.
 
