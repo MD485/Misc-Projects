@@ -1,0 +1,36 @@
+C:\Users\Yuno\Desktop\School\Programming\Basic\Chapter 13\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Yuno\Desktop\School\Programming\Basic\Chapter 13\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Yuno\Desktop\School\Programming\Basic\Chapter 13\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Yuno\Desktop\School\Programming\Basic\Chapter 13\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Yuno\Desktop\School\Programming\Basic\Chapter 13\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Yuno\Desktop\School\Programming\Basic\Chapter 13\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Yuno\Desktop\School\Programming\Basic\Chapter 13\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Yuno\Desktop\School\Programming\Basic\Chapter 13\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Yuno\Desktop\School\Programming\Basic\Chapter 13\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Yuno\Desktop\School\Programming\Basic\Chapter 13\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\kcfs04\StudentHome\KC68290\Desktop\School\Programming\Basic\Chapter 13\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+\\kcfs04\StudentHome\KC68290\Desktop\School\Programming\Basic\Chapter 13\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+\\kcfs04\StudentHome\KC68290\Desktop\School\Programming\Basic\Chapter 13\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+\\kcfs04\StudentHome\KC68290\Desktop\School\Programming\Basic\Chapter 13\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\kcfs04\StudentHome\KC68290\Desktop\School\Programming\Basic\Chapter 13\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+\\kcfs04\StudentHome\KC68290\Desktop\School\Programming\Basic\Chapter 13\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+\\kcfs04\StudentHome\KC68290\Desktop\School\Programming\Basic\Chapter 13\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+\\kcfs04\StudentHome\KC68290\Desktop\School\Programming\Basic\Chapter 13\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+\\kcfs04\StudentHome\KC68290\Desktop\School\Programming\Basic\Chapter 13\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+\\kcfs04\StudentHome\KC68290\Desktop\School\Programming\Basic\Chapter 13\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\School\Programming\Basic\Chapter 13\MayanCalendar\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\School\Programming\Basic\Chapter 13\MayanCalendar\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\School\Programming\Basic\Chapter 13\MayanCalendar\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\School\Programming\Basic\Chapter 13\MayanCalendar\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Yuno\Desktop\New folder\Junko\Shit\New folder (6)\Blue\suck\Programming\MayanCalendar\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Yuno\Desktop\New folder\Junko\Shit\New folder (6)\Blue\suck\Programming\MayanCalendar\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Yuno\Desktop\New folder\Junko\Shit\New folder (6)\Blue\suck\Programming\MayanCalendar\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Yuno\Desktop\New folder\Junko\Shit\New folder (6)\Blue\suck\Programming\MayanCalendar\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Yuno\Desktop\New folder\Junko\Shit\New folder (6)\Blue\suck\Programming\MayanCalendar\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Users\Yuno\Desktop\New folder\Junko\Shit\New folder (6)\Blue\suck\Programming\MayanCalendar\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Yuno\Desktop\New folder\Junko\Shit\New folder (6)\Blue\suck\Programming\MayanCalendar\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Yuno\Desktop\New folder\Junko\Shit\New folder (6)\Blue\suck\Programming\MayanCalendar\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\Yuno\Desktop\New folder\Junko\Shit\New folder (6)\Blue\suck\Programming\MayanCalendar\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\Yuno\Desktop\New folder\Junko\Shit\New folder (6)\Blue\suck\Programming\MayanCalendar\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Yuno\Desktop\New folder\Junko\Shit\New folder (6)\Blue\suck\Programming\MayanCalendar\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Yuno\Desktop\New folder\Junko\Shit\New folder (6)\Blue\suck\Programming\MayanCalendar\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
