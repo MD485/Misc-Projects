@@ -1,0 +1,11 @@
+C:\Users\Yuno\source\repos\QueueStackSort\QueueStackSort\bin\Debug\netcoreapp2.1\QueueStackSort.deps.json
+C:\Users\Yuno\source\repos\QueueStackSort\QueueStackSort\bin\Debug\netcoreapp2.1\QueueStackSort.runtimeconfig.json
+C:\Users\Yuno\source\repos\QueueStackSort\QueueStackSort\bin\Debug\netcoreapp2.1\QueueStackSort.runtimeconfig.dev.json
+C:\Users\Yuno\source\repos\QueueStackSort\QueueStackSort\bin\Debug\netcoreapp2.1\QueueStackSort.dll
+C:\Users\Yuno\source\repos\QueueStackSort\QueueStackSort\bin\Debug\netcoreapp2.1\QueueStackSort.pdb
+C:\Users\Yuno\source\repos\QueueStackSort\QueueStackSort\obj\Debug\netcoreapp2.1\QueueStackSort.vbprojAssemblyReference.cache
+C:\Users\Yuno\source\repos\QueueStackSort\QueueStackSort\obj\Debug\netcoreapp2.1\QueueStackSort.vbproj.CoreCompileInputs.cache
+C:\Users\Yuno\source\repos\QueueStackSort\QueueStackSort\obj\Debug\netcoreapp2.1\QueueStackSort.AssemblyInfoInputs.cache
+C:\Users\Yuno\source\repos\QueueStackSort\QueueStackSort\obj\Debug\netcoreapp2.1\QueueStackSort.AssemblyInfo.vb
+C:\Users\Yuno\source\repos\QueueStackSort\QueueStackSort\obj\Debug\netcoreapp2.1\QueueStackSort.dll
+C:\Users\Yuno\source\repos\QueueStackSort\QueueStackSort\obj\Debug\netcoreapp2.1\QueueStackSort.pdb
