@@ -20,7 +20,7 @@ Module QueueStackSort
     Sub Main()
         Dim rand As Random = New Random()
 
-        Dim Array(10)
+        Dim Array(10) As Integer
         Dim Queuer As List(Of Queue(Of Integer)) = New List(Of Queue(Of Integer))
         Dim Stacker As List(Of Stack(Of Integer)) = New List(Of Stack(Of Integer))
 
