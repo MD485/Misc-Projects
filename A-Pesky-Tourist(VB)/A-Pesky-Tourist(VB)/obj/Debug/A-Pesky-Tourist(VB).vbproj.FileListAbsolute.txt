@@ -1,0 +1,10 @@
+C:\Users\Yuno\source\repos\A-Pesky-Tourist(VB)\A-Pesky-Tourist(VB)\obj\Debug\A-Pesky-Tourist(VB).vbprojAssemblyReference.cache
+C:\Users\Yuno\source\repos\A-Pesky-Tourist(VB)\A-Pesky-Tourist(VB)\obj\Debug\A_Pesky_Tourist_VB_.Resources.resources
+C:\Users\Yuno\source\repos\A-Pesky-Tourist(VB)\A-Pesky-Tourist(VB)\obj\Debug\A-Pesky-Tourist(VB).vbproj.GenerateResource.cache
+C:\Users\Yuno\source\repos\A-Pesky-Tourist(VB)\A-Pesky-Tourist(VB)\obj\Debug\A-Pesky-Tourist(VB).vbproj.CoreCompileInputs.cache
+C:\Users\Yuno\source\repos\A-Pesky-Tourist(VB)\A-Pesky-Tourist(VB)\bin\Debug\A-Pesky-Tourist(VB).exe
+C:\Users\Yuno\source\repos\A-Pesky-Tourist(VB)\A-Pesky-Tourist(VB)\bin\Debug\A-Pesky-Tourist(VB).pdb
+C:\Users\Yuno\source\repos\A-Pesky-Tourist(VB)\A-Pesky-Tourist(VB)\bin\Debug\A-Pesky-Tourist(VB).xml
+C:\Users\Yuno\source\repos\A-Pesky-Tourist(VB)\A-Pesky-Tourist(VB)\obj\Debug\A-Pesky-Tourist(VB).exe
+C:\Users\Yuno\source\repos\A-Pesky-Tourist(VB)\A-Pesky-Tourist(VB)\obj\Debug\A-Pesky-Tourist(VB).xml
+C:\Users\Yuno\source\repos\A-Pesky-Tourist(VB)\A-Pesky-Tourist(VB)\obj\Debug\A-Pesky-Tourist(VB).pdb
