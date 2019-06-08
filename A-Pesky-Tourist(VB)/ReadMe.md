@@ -1,4 +1,4 @@
-#A Pesky Tourist  
+# A Pesky Tourist  
 
 This is a somewhat rewritten implementation of an old VB project written in 2016, an implementation of the nifty.stanford.edu 
 project "A Pesky Tourist"; seen here: http://nifty.stanford.edu/2014/nicholson-the-pesky-tourist/  
