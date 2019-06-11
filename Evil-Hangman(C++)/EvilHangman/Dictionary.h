@@ -1,14 +1,14 @@
-#pragma once
+#ifndef __DICTIONARY_H__
+#define __DICTIONARY_H__  
+
 #include <map>
 #include <list>
 #include <string>
 
-using std::list;
-using std::string;
-using std::map;
-
 namespace Dictionary
 {
-	list<string> GetDictionary(int wordLength);
-	map<string, list<string>> GetVariations(list<string> wordsToFilter, char letterToFilterBy);
+	std::list<std::string> GetDictionary(int wordLength);
+	std::map<std::string, std::list<std::string>> GetVariations(std::list<std::string> wordsToFilter, char letterToFilterBy);
 }
+
+#endif __DICTIONARY_H__
